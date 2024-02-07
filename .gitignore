@@ -1,0 +1,7 @@
+#ignore the data directory
+/data
+/Dashboard/data
+
+data
+Dashboard/data
+Dashboard/data/playsOfEachGameOfEachTeam.csv

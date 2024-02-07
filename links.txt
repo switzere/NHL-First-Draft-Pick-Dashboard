@@ -1,0 +1,7 @@
+https://www.kaggle.com/datasets/mattop/nhl-draft-hockey-player-data-1963-2022
+https://www.kaggle.com/datasets/martinellis/nhl-game-data/data
+https://www.kaggle.com/datasets/waizaidoc/hockey-dataset
+https://gitlab.com/dword4/nhlapi/blob/master/stats-api.md
+https://github.com/erunion/sport-api-specifications/tree/master/nhl
+https://lookerstudio.google.com/reporting/8fd0c99c-0a60-4e28-acd3-a7763ebad1e1/page/mDAOB?s=kJKZx3ROjns
+https://www.clickinsight.ca/blog/building-nhl-shot-maps-with-apps-script-bigquery-and-data-studio

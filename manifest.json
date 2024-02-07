@@ -1,0 +1,25 @@
+{
+    "name": "Goal Heatmap",
+    "logoUrl": "https://raw.githubusercontent.com/googledatastudio/community-visualizations/master/docs/codelab/img/table-chart.png",
+    "organization": "Looker Studio Codelab",
+    "organizationUrl": "https://url",
+    "termsOfServiceUrl": "https://url",
+    "supportUrl": "https://url",
+    "packageUrl": "https://url",
+    "privacyPolicyUrl": "https://url",
+    "description": "Heatmap of goals from NHL players",
+    "devMode": true,
+    "components": [
+        {
+            "id": "Goal Heatmap",
+            "name": "Table",
+            "iconUrl": "https://raw.githubusercontent.com/googledatastudio/community-visualizations/master/docs/codelab/img/table-chart.png",
+            "description": "A simple table chart.",
+            "resource": {
+                "js": "gs://data6200/vis.js",
+                "config": "gs://data6200/config.json",
+                "css": "gs://data6200/style.css"
+            }
+        }
+    ]
+}
